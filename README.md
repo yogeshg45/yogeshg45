@@ -2,10 +2,6 @@
 
 <h3 align="center">🚀 Building scalable solutions with ML, Cloud and Algorithms 🚀</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yogeshganesh2005&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 ## 🚀 About Me
 
 - 🤖 AI/ML enthusiast with hands-on experience in **predictive modeling, cybersecurity tools, and research-driven development**
